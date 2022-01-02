@@ -1,0 +1,21 @@
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  padding: 3%;
+}
+
+main img {
+  border: 1px solid black;
+  height: 530px;
+  width: 300px;
+}
+
+main article {
+  padding-left: 2%;
+}
+/*# sourceMappingURL=about.css.map */

@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    flex-direction: row;
+    padding: 3%;
+    img{
+        border: 1px solid black;
+        height: 530px;
+        width: 300px;
+    }
+    article{
+        padding-left: 2%;
+    }
+}

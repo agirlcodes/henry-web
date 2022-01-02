@@ -1,0 +1,22 @@
+.social-media {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: yellow;
+
+/* Style font awesome icons */
+.fa {
+  padding: 14px 16px;
+  font-size: 25px;
+  text-decoration: none;
+}
+  
+  .fa:hover {
+  background-color: lavender;
+}
+
+  .fa-youtube, .fa-itch-io, .fa-linkedin, .fa-instagram {
+  color: white;
+}
+}
